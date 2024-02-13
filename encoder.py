@@ -144,7 +144,7 @@ def encode():
  
 # Main 
 def main():
-    user_input = int(input("--- CS 409: Steganography System Encoder --- \n"
+    user_input = int(input("--- Steganography System Encoder --- \n"
                   "    Select one of the following options: \n\n"
                   "1: Encode\n"
                   "2: Exit\n"))
