@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Jacob Bowers
+@author: Tick Magnet
 """
 
 # We use PIL for pixel modification.
