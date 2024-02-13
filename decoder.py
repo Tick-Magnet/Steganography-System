@@ -47,7 +47,7 @@ def decode():
   
 # Main 
 def main():
-    user_input = int(input("--- CS 409: Steganography System Decoder --- \n"
+    user_input = int(input("--- Steganography System Decoder --- \n"
                   "    Select one of the following options: \n\n"
                   "1: Decode\n"
                   "2: Exit\n"))
