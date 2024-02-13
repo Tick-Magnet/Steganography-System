@@ -7,7 +7,7 @@ CONTENTS OF THIS FILE
 
 Introduction
 ------------
-Welcome to our CS 409 Final Project. The Steganographic System and Password Cracker. 
+Welcome to the Steganographic System and Password Cracker. 
 These systems were designed to be user-friendly, and this README continues in that philosophy. This file will have been a success if it helps you get our system up and running ASAP!
 
 Installation
@@ -26,8 +26,10 @@ If you wish to Decode an Image run Decode.py.
 
 Just remember when using this system. Any used Image files must be in the same folder as the Python files, and all newly encoded files will be found in the same folder. For consistant results use the .png file extention.
 
+System Used geeksforgeeks as a base: https://www.geeksforgeeks.org/image-based-steganography-using-python/
+
 TESTING
 -------
 Provided are two image files that may be used at your convenience.
 - blueHills.png can be used for encoding.
-- blueHills(encoded).png has a message encoded with a password: Password.
+- blueHills(encoded).png has a message encoded with a password: Password
